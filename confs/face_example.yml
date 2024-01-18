@@ -61,8 +61,8 @@ inpa_inj_sched_prev_cumnoise: false
 schedule_jump_params:
   t_T: 250
   n_sample: 1
-  jump_length: 2
-  jump_n_sample: 2
+  jump_length: 5
+  jump_n_sample: 5
 data:
   eval:
     paper_face_mask:
